@@ -1,2 +1,3 @@
 # CustomLauncher
-弃坑了弃坑了，想填坑的Fork去吧
+Fork来的
+准备魔改但是还没开始
